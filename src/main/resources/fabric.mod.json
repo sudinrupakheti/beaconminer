@@ -7,6 +7,9 @@
 	"authors": [
 		"Sudin"
 	],
+	"contact": {
+		"sources": "https://github.com/sudinrupakheti/beaconminer.git"
+	},
 	"license": "CC0-1.0",
 	"icon": "assets/beaconminer/icon.png",
 	"environment": "*",
